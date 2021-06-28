@@ -1,0 +1,15 @@
+/Users/serkanberk/Desktop/Programming/Pratikler/type-conversions/bin/Debug/net5.0/type-conversions.deps.json
+/Users/serkanberk/Desktop/Programming/Pratikler/type-conversions/bin/Debug/net5.0/type-conversions.runtimeconfig.json
+/Users/serkanberk/Desktop/Programming/Pratikler/type-conversions/bin/Debug/net5.0/type-conversions.runtimeconfig.dev.json
+/Users/serkanberk/Desktop/Programming/Pratikler/type-conversions/bin/Debug/net5.0/type-conversions.dll
+/Users/serkanberk/Desktop/Programming/Pratikler/type-conversions/bin/Debug/net5.0/ref/type-conversions.dll
+/Users/serkanberk/Desktop/Programming/Pratikler/type-conversions/bin/Debug/net5.0/type-conversions.pdb
+/Users/serkanberk/Desktop/Programming/Pratikler/type-conversions/obj/Debug/net5.0/type-conversions.csproj.AssemblyReference.cache
+/Users/serkanberk/Desktop/Programming/Pratikler/type-conversions/obj/Debug/net5.0/type-conversions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serkanberk/Desktop/Programming/Pratikler/type-conversions/obj/Debug/net5.0/type-conversions.AssemblyInfoInputs.cache
+/Users/serkanberk/Desktop/Programming/Pratikler/type-conversions/obj/Debug/net5.0/type-conversions.AssemblyInfo.cs
+/Users/serkanberk/Desktop/Programming/Pratikler/type-conversions/obj/Debug/net5.0/type-conversions.csproj.CoreCompileInputs.cache
+/Users/serkanberk/Desktop/Programming/Pratikler/type-conversions/obj/Debug/net5.0/type-conversions.dll
+/Users/serkanberk/Desktop/Programming/Pratikler/type-conversions/obj/Debug/net5.0/ref/type-conversions.dll
+/Users/serkanberk/Desktop/Programming/Pratikler/type-conversions/obj/Debug/net5.0/type-conversions.pdb
+/Users/serkanberk/Desktop/Programming/Pratikler/type-conversions/obj/Debug/net5.0/type-conversions.genruntimeconfig.cache
