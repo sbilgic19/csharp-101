@@ -6,7 +6,7 @@ namespace try_catch
     {
         static void Main(string[] args)
         {
-            /*
+            
             try
             {
                 Console.WriteLine("Bir sayı giriniz: ");
@@ -23,7 +23,7 @@ namespace try_catch
                 Console.WriteLine("İşlem tamamlandı. ");
             }
             
-            */
+            
 
             try
             {
