@@ -1,0 +1,15 @@
+/Users/serkanberk/Desktop/Programming/Pratikler/variables-datatypes/obj/Debug/net5.0/variables-datatypes.csproj.AssemblyReference.cache
+/Users/serkanberk/Desktop/Programming/Pratikler/variables-datatypes/obj/Debug/net5.0/variables-datatypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serkanberk/Desktop/Programming/Pratikler/variables-datatypes/obj/Debug/net5.0/variables-datatypes.AssemblyInfoInputs.cache
+/Users/serkanberk/Desktop/Programming/Pratikler/variables-datatypes/obj/Debug/net5.0/variables-datatypes.AssemblyInfo.cs
+/Users/serkanberk/Desktop/Programming/Pratikler/variables-datatypes/obj/Debug/net5.0/variables-datatypes.csproj.CoreCompileInputs.cache
+/Users/serkanberk/Desktop/Programming/Pratikler/variables-datatypes/bin/Debug/net5.0/variables-datatypes.deps.json
+/Users/serkanberk/Desktop/Programming/Pratikler/variables-datatypes/bin/Debug/net5.0/variables-datatypes.runtimeconfig.json
+/Users/serkanberk/Desktop/Programming/Pratikler/variables-datatypes/bin/Debug/net5.0/variables-datatypes.runtimeconfig.dev.json
+/Users/serkanberk/Desktop/Programming/Pratikler/variables-datatypes/bin/Debug/net5.0/variables-datatypes.dll
+/Users/serkanberk/Desktop/Programming/Pratikler/variables-datatypes/bin/Debug/net5.0/ref/variables-datatypes.dll
+/Users/serkanberk/Desktop/Programming/Pratikler/variables-datatypes/bin/Debug/net5.0/variables-datatypes.pdb
+/Users/serkanberk/Desktop/Programming/Pratikler/variables-datatypes/obj/Debug/net5.0/variables-datatypes.dll
+/Users/serkanberk/Desktop/Programming/Pratikler/variables-datatypes/obj/Debug/net5.0/ref/variables-datatypes.dll
+/Users/serkanberk/Desktop/Programming/Pratikler/variables-datatypes/obj/Debug/net5.0/variables-datatypes.pdb
+/Users/serkanberk/Desktop/Programming/Pratikler/variables-datatypes/obj/Debug/net5.0/variables-datatypes.genruntimeconfig.cache
