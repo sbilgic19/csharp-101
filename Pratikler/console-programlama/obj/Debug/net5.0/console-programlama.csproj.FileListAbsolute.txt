@@ -1,0 +1,15 @@
+/Users/serkanberk/Desktop/Programming/DotNET/console-programlama/bin/Debug/net5.0/console-programlama.deps.json
+/Users/serkanberk/Desktop/Programming/DotNET/console-programlama/bin/Debug/net5.0/console-programlama.runtimeconfig.json
+/Users/serkanberk/Desktop/Programming/DotNET/console-programlama/bin/Debug/net5.0/console-programlama.runtimeconfig.dev.json
+/Users/serkanberk/Desktop/Programming/DotNET/console-programlama/bin/Debug/net5.0/console-programlama.dll
+/Users/serkanberk/Desktop/Programming/DotNET/console-programlama/bin/Debug/net5.0/ref/console-programlama.dll
+/Users/serkanberk/Desktop/Programming/DotNET/console-programlama/bin/Debug/net5.0/console-programlama.pdb
+/Users/serkanberk/Desktop/Programming/DotNET/console-programlama/obj/Debug/net5.0/console-programlama.csproj.AssemblyReference.cache
+/Users/serkanberk/Desktop/Programming/DotNET/console-programlama/obj/Debug/net5.0/console-programlama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serkanberk/Desktop/Programming/DotNET/console-programlama/obj/Debug/net5.0/console-programlama.AssemblyInfoInputs.cache
+/Users/serkanberk/Desktop/Programming/DotNET/console-programlama/obj/Debug/net5.0/console-programlama.AssemblyInfo.cs
+/Users/serkanberk/Desktop/Programming/DotNET/console-programlama/obj/Debug/net5.0/console-programlama.csproj.CoreCompileInputs.cache
+/Users/serkanberk/Desktop/Programming/DotNET/console-programlama/obj/Debug/net5.0/console-programlama.dll
+/Users/serkanberk/Desktop/Programming/DotNET/console-programlama/obj/Debug/net5.0/ref/console-programlama.dll
+/Users/serkanberk/Desktop/Programming/DotNET/console-programlama/obj/Debug/net5.0/console-programlama.pdb
+/Users/serkanberk/Desktop/Programming/DotNET/console-programlama/obj/Debug/net5.0/console-programlama.genruntimeconfig.cache
