@@ -1,0 +1,15 @@
+/Users/serkanberk/Desktop/Programming/Pratikler/operators/bin/Debug/net5.0/operators.deps.json
+/Users/serkanberk/Desktop/Programming/Pratikler/operators/bin/Debug/net5.0/operators.runtimeconfig.json
+/Users/serkanberk/Desktop/Programming/Pratikler/operators/bin/Debug/net5.0/operators.runtimeconfig.dev.json
+/Users/serkanberk/Desktop/Programming/Pratikler/operators/bin/Debug/net5.0/operators.dll
+/Users/serkanberk/Desktop/Programming/Pratikler/operators/bin/Debug/net5.0/ref/operators.dll
+/Users/serkanberk/Desktop/Programming/Pratikler/operators/bin/Debug/net5.0/operators.pdb
+/Users/serkanberk/Desktop/Programming/Pratikler/operators/obj/Debug/net5.0/operators.csproj.AssemblyReference.cache
+/Users/serkanberk/Desktop/Programming/Pratikler/operators/obj/Debug/net5.0/operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serkanberk/Desktop/Programming/Pratikler/operators/obj/Debug/net5.0/operators.AssemblyInfoInputs.cache
+/Users/serkanberk/Desktop/Programming/Pratikler/operators/obj/Debug/net5.0/operators.AssemblyInfo.cs
+/Users/serkanberk/Desktop/Programming/Pratikler/operators/obj/Debug/net5.0/operators.csproj.CoreCompileInputs.cache
+/Users/serkanberk/Desktop/Programming/Pratikler/operators/obj/Debug/net5.0/operators.dll
+/Users/serkanberk/Desktop/Programming/Pratikler/operators/obj/Debug/net5.0/ref/operators.dll
+/Users/serkanberk/Desktop/Programming/Pratikler/operators/obj/Debug/net5.0/operators.pdb
+/Users/serkanberk/Desktop/Programming/Pratikler/operators/obj/Debug/net5.0/operators.genruntimeconfig.cache
