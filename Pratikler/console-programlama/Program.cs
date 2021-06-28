@@ -10,6 +10,7 @@ namespace console_programlama
             string s = Console.ReadLine();
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hi, "+ s);
+            Console.WriteLine(s);
         }
     }
 }

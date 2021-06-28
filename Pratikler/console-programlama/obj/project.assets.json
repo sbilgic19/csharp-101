@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/serkanberk/Desktop/Programming/DotNET/console-programlama/console-programlama.csproj",
+      "projectUniqueName": "/Users/serkanberk/Desktop/Programming/Pratikler/console-programlama/console-programlama.csproj",
       "projectName": "console-programlama",
-      "projectPath": "/Users/serkanberk/Desktop/Programming/DotNET/console-programlama/console-programlama.csproj",
+      "projectPath": "/Users/serkanberk/Desktop/Programming/Pratikler/console-programlama/console-programlama.csproj",
       "packagesPath": "/Users/serkanberk/.nuget/packages/",
-      "outputPath": "/Users/serkanberk/Desktop/Programming/DotNET/console-programlama/obj/",
+      "outputPath": "/Users/serkanberk/Desktop/Programming/Pratikler/console-programlama/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/serkanberk/.nuget/NuGet/NuGet.Config"
