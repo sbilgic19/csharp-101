@@ -7,6 +7,10 @@ namespace Koleksiyonlar_soru_3
     {
         static void Main(string[] args)
         {
+            /*
+                Klavyeden girilen cümle içerisindeki sesli harfleri bir dizi içerisinde 
+                saklayan ve dizinin elemanlarını sıralayan programı yazınız.
+            */
             List<char> vowelList = new List<char>{'a', 'e', 'ı','i', 'o','ö', 'u','ü','A','E','I','İ','O','Ö','U','Ü'};
             Console.WriteLine("Lütfen bir cümle yazınız. ");
             string str = Console.ReadLine();
