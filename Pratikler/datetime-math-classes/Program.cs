@@ -70,6 +70,15 @@ namespace datetime_math_classes
 
             Console.WriteLine(Math.Pow(3,4));
             Console.WriteLine(Math.Sqrt(3));
+            Console.WriteLine(Math.Log(9)); // loge tabanına göre
+            Console.WriteLine(Math.Exp(33)); // e^33
+            Console.WriteLine(Math.Log10(3)); // log10 tabanına göre
+
+
+            Console.WriteLine(Math.Pow(3,4));
+
+
+
             
 
             
